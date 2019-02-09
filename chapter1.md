@@ -40,3 +40,33 @@ This is an example exercise.
 ```{python}
 
 ```
+
+---
+
+## Insert exercise title here
+
+```yaml
+type: MultipleChoiceExercise
+key: 771ec2d640
+xp: 50
+```
+
+This is a sample question. Enter the right answer, dude.
+
+`@possible_answers`
+var += 2
+var *= 2
+
+`@hint`
+
+
+`@pre_exercise_code`
+```{python}
+var = 123
+
+```
+
+`@sct`
+```{python}
+var == 456
+```
