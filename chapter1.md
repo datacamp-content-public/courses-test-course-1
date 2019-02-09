@@ -28,13 +28,13 @@ Do stuff here. More characters more characters.
 
 `@sample_code`
 ```{python}
- abc = 123
+abc = 123
 ```
 
 `@solution`
 ```{python}
- abc = 123
- abc *= 2
+abc = 123
+abc *= 2
 
 ```
 
