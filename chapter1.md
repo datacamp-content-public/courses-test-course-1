@@ -56,6 +56,7 @@ This is a sample question. Enter the right answer, dude.
 `@possible_answers`
 var += 2
 var *= 2
+var /= 2
 
 `@hint`
 
