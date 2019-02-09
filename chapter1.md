@@ -13,10 +13,10 @@ xp: 100
 skills: 2
 ```
 
-This is an example exercise.
+This is an example exercise. More characters needed?	
 
 `@instructions`
-
+Do stuff here. More characters more characters.
 
 `@hint`
 
@@ -28,22 +28,24 @@ This is an example exercise.
 
 `@sample_code`
 ```{python}
-
+ abc = 123
 ```
 
 `@solution`
 ```{python}
+ abc = 123
+ abc *= 2
 
 ```
 
 `@sct`
 ```{python}
-
+Ex().check_object('abc').has_equal_value()
 ```
 
 ---
 
-## Insert exercise title here
+## Exercise Test 1
 
 ```yaml
 type: MultipleChoiceExercise
