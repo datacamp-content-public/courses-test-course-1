@@ -54,9 +54,9 @@ xp: 50
 This is a sample question. Enter the right answer, dude.
 
 `@possible_answers`
-var += 2
-var *= 2
-var /= 2
+- var += 2
+- [var *= 2]
+- var /= 2
 
 `@hint`
 
@@ -69,5 +69,5 @@ var = 123
 
 `@sct`
 ```{python}
-var == 456
+
 ```
